@@ -28,4 +28,4 @@ spec:
     spec:
       containers:
         - name: kubernetes-configmap-reload
-          image: Konda1554/kubernetes-configmap-reload:latest
+          image: venkat1554/kubernetes-configmap-reload:latest
